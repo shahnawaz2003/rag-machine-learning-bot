@@ -1,0 +1,3 @@
+Python is a powerful and easy-to-learn programming language. It supports multiple programming styles, including object-oriented and functional programming. Because of its clean syntax and huge library support.
+      Python is widely used in data science, machine learning, web development, and automation.
+    
